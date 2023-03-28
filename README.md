@@ -8,7 +8,7 @@ My name is ✨Robin Černín✨, I’m a Principal Software Maintenance Engineer
 - I have also created few internal projects:
     - Go - [Internal Slack Bot]() - Internal Slack bot written in Go used by Red Hat associates.
 - Still work in progress as I am slowly learning Rust:
-    - Rust - [CMS]() - CMS project written in Rust
+    - Rust - [CMS 1](https://github.com/zerodayz/cms-1/) - CMS compliant with WCAG 2.1 at Level AAA written in Rust
 - Few other upstream projects that I created:
     - Py - [Risu](https://github.com/risuorg/risu) - I have created Citellus using Bash scripting. Which was then drastically improved and rewritten to Python by Pablo Iranzo and renamed to Risu. This is the validation tool for Linux system configuration. 
     - Py - [Memsource CLI](https://github.com/unofficial-memsource/memsource-cli-client) - For anyone working with the TMS (Translation Management System). This tool was created for automating Memsource related tasks. This tool was featured on back them Memsource blog (Now acquired by Phrase)
